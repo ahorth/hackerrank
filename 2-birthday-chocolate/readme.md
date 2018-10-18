@@ -1,4 +1,4 @@
-# Birthdat Chocolate
+# Birthday Chocolate
 
 ## Problem
 
