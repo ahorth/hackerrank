@@ -1,4 +1,4 @@
-# Birthday Chocolate
+# Extra long factorial
 
 ## Problem
 
