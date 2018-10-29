@@ -21,6 +21,7 @@ solve (x1:a:xs) = let
                    bool2Str (isClass k a) : (solve xs)
 solve _ = []
 
+main :: IO ()
 main = do
     temp <- readIntList
     let t = solve temp
